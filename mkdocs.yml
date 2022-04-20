@@ -1,0 +1,7 @@
+site_name: Perguntando
+nav:
+    - Home: index.md
+    - Sprints e Backlog: metodologias.md
+    - Telas: telas.md
+    - Desenvolvedores: desenvolvedores.md
+theme: readthedocs
